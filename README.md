@@ -54,7 +54,7 @@ Possess strong analytical thinking, problem-solving ability, and communication s
 
 **Tech Stack:** Power BI, Power Query, DAX, Excel
 
-Project link: https://github.com/PRATHAMPBHANDARY/HR-Workforce-Attrition-Analysis-Dashboard-
+**Project link:** https://github.com/PRATHAMPBHANDARY/HR-Workforce-Attrition-Analysis-Dashboard-
 
 
 **Overview**
@@ -81,12 +81,43 @@ Developed an interactive HR analytics dashboard to analyze employee attrition pa
 * Supports development of effective retention strategies
 
 ---
+**Spotify Data Analysis using PostgreSQL**
+
+**Tech Stack:** PostgreSQL, SQL
+
+**Project link:**
+https://github.com/PRATHAMPBHANDARY/Spotify-SQL-Data-Analysis
+
+**Overview**
+Performed SQL-based analysis on a Spotify dataset to extract insights on tracks, artists, albums, and streaming performance. The project focuses on solving business-oriented problems using structured query techniques.
+
+**Key Highlights**
+
+* Designed and executed 15+ SQL queries across basic, intermediate, and advanced levels
+* Utilized DDL, DML, aggregations, joins, subqueries, window functions, and CTEs
+* Analyzed streaming data, engagement metrics, and platform usage (Spotify vs YouTube)
+* Applied data exploration techniques to identify patterns in music trends
+
+**Key Insights**
+
+* A small number of tracks contribute significantly to total streams
+* High-energy tracks tend to achieve better engagement
+* Platform preference varies across tracks and audiences
+* Engagement metrics such as views and likes strongly indicate popularity
+
+**Business Impact**
+
+* Helps understand music consumption patterns
+* Supports data-driven decision-making in the entertainment industry
+*Demonstrates practical SQL application for real-world analytical scenarios
+
+---
 
 ### Hospital Emergency Room Dashboard
 
 **Tech Stack:** Microsoft Excel
 
-Project link: https://github.com/PRATHAMPBHANDARY/Hospital-Emergency-Room-Dashboard-
+**Project link:** https://github.com/PRATHAMPBHANDARY/Hospital-Emergency-Room-Dashboard-
 
 **Overview**
 Developed an interactive dashboard to analyze emergency room operations and improve efficiency through data-driven insights.
@@ -101,7 +132,7 @@ Developed an interactive dashboard to analyze emergency room operations and impr
 
 ### Research Paper — Overcoming Barriers to Rural Entrepreneurship
 
-Project link: https://github.com/PRATHAMPBHANDARY/Overcoming-Barriers-to-Rural-Entrepreneurship-
+**Project link:** https://github.com/PRATHAMPBHANDARY/Overcoming-Barriers-to-Rural-Entrepreneurship-
 
 **Overview**
 A research-based project focused on identifying challenges in rural entrepreneurship and proposing sustainable solutions.
