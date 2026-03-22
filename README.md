@@ -81,7 +81,7 @@ Developed an interactive HR analytics dashboard to analyze employee attrition pa
 * Supports development of effective retention strategies
 
 ---
-**Spotify Data Analysis using PostgreSQL**
+### Spotify Data Analysis using PostgreSQL
 
 **Tech Stack:** PostgreSQL, SQL
 
