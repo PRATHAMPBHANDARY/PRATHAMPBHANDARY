@@ -24,6 +24,7 @@ Possess strong analytical thinking, problem-solving ability, and communication s
 * Microsoft Excel (Advanced)
 * Microsoft Power BI
 * SQL
+* Draw.io
 
 ### Tools & Technologies
 
@@ -81,6 +82,40 @@ Developed an interactive HR analytics dashboard to analyze employee attrition pa
 * Supports development of effective retention strategies
 
 ---
+
+### NOVATE – Online Job Application System (Use Case Analysis)  
+
+**Tech Stack:** UML, Draw.io, Microsoft Word, Business Analysis  
+
+**Project link:** https://github.com/PRATHAMPBHANDARY/NOVATE-Job-Application-System-USE-CASE-Diagarm  
+
+**Overview**  
+Developed a Business Analysis use case model for an Online Job Application System to streamline the recruitment lifecycle by connecting job seekers, recruiters, and administrators on a single platform.  
+
+**Key Highlights**  
+
+* Designed a complete Use Case Diagram covering Job Seeker, Recruiter, and Admin  
+* Documented functional and non-functional requirements  
+* Defined system boundary and actor interactions  
+* Established use case relationships (include and extend)  
+* Created detailed use case descriptions with pre-conditions and post-conditions  
+
+**Key Insights**  
+
+* Centralized systems improve efficiency in recruitment processes  
+* Role-based functionalities enhance usability and system control  
+* Use case modeling bridges business requirements with system design  
+* Structured workflows improve transparency in application tracking  
+
+**Business Impact**  
+
+* Reduces recruitment cycle time and improves hiring efficiency  
+* Enhances user experience for both job seekers and recruiters  
+* Provides a scalable and structured recruitment solution  
+* Demonstrates practical Business Analyst skills in requirement analysis and modeling  
+
+---
+
 ### Spotify Data Analysis using PostgreSQL
 
 **Tech Stack:** PostgreSQL, SQL
