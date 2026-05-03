@@ -215,19 +215,21 @@ A research-based project focused on identifying challenges in rural entrepreneur
 
 **Bachelor of Business Administration (BBA)**
 Dr. B.B. Hegde First Grade College, Kundapura.
+
 **CGPA:** 9.48
+
 **Expected Graduation:** 2026
 
 ---
 
 ## Certifications
-
-* HR Analytics – UCI (Coursera, 2025)
+* Foundations of Business Analysis – SAP (Coursera, 2026)  
 * Fundamentals of Data Analysis in Excel – CFI (Coursera, 2026)
 * Power BI Fundamentals – CFI (2026)
 * SQL for Beginners - Scaler (2026)
 * SQL for Data Analysis – Simplilearn (2026)
-* IBM Digital Badge – Excel Essential for Data Analysis
+* HR Analytics – UCI (Coursera, 2025)
+* IBM Digital Badge – Excel Essential for Data Analysis (Coursera, 2025)
 * Talent Acquisition – HRCI (Coursera, 2025)
 
 ---
