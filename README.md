@@ -186,7 +186,7 @@ A research-based project focused on identifying challenges in rural entrepreneur
 
 # Research Paper — Data-Based Decision Making and Problem Solving
 
-**Project link:** 
+**Project link:** https://github.com/PRATHAMPBHANDARY/Data-Based-Decision-Making-and-Problem-Solving
 
 ## Overview
 
