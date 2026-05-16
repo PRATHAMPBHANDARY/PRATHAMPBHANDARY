@@ -194,7 +194,7 @@ Presented at **National Conference 2025 — SDM College of Business Management, 
 
 ---
 
-## **RESEARCH PAPER — DATA-BASED DECISION MAKING AND PROBLEM SOLVING**
+## **Research Paper — Databased Decision Making and PRoblem Solving**
 
 **Project Link:**
 [https://github.com/PRATHAMPBHANDARY/Data-Based-Decision-Making-and-Problem-Solving](https://github.com/PRATHAMPBHANDARY/Data-Based-Decision-Making-and-Problem-Solving)
