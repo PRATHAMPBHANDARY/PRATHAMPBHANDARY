@@ -184,6 +184,28 @@ A research-based project focused on identifying challenges in rural entrepreneur
 
 ---
 
+# Research Paper — Data-Based Decision Making and Problem Solving
+
+**Project link:** 
+
+## Overview
+
+A research-based project focused on the role of data analytics, business intelligence, and data-driven strategies in improving organizational decision-making and problem solving.
+
+## Key Highlights
+
+* Researched Data-Based Decision Making (DBDM) and business analytics concepts
+* Studied tools such as Excel, SQL, Power BI, and Python
+* Analyzed applications of analytics in Marketing, Finance, HR, and Operations
+* Explored challenges including data quality, privacy concerns, and implementation barriers
+* Examined case studies of Amazon, Netflix, and Google
+
+## Key Achievement
+
+* Presented a research paper at National Conference 2026 — *Reimagining Higher Education: Nurturing Future-Ready Skills in the Era of AI*
+
+---
+
 ## Internships Experience
 
 ### Human Resources Intern — MJ Marketing Consultancy
